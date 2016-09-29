@@ -1,4 +1,13 @@
 #------------------------------------------------------------------------------
+# GitHub
+#
+
+Shunit2 has been hosted in various places, including SourceForge and Google
+Code. According to an announcement by original author Kate Ward on Google Code (
+https://code.google.com/archive/p/shunit2/ ), all new Shunit2 development will
+be hosted on GitHub. Old releases are still available on SourceForge.
+
+#------------------------------------------------------------------------------
 # SourceForge
 #
 
