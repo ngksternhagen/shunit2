@@ -2,8 +2,27 @@
 shUnit2 2.1.x README
 ====================
 
+github.com
+==========
+
+This project is stored on code.google.com as http://code.google.com/p/shunit2/.
+
+Documentation is included as part of the source and each release. Source code is stored in
+Git and can be accessed using the following information.
+
+Browse the code in a web browser:
+
+- https://github.com/kward/shunit2
+
+Check out the code locally ::
+
+  $ git clone https://github.com/kward/shunit2
+
+
 code.google.com
 ===============
+
+DEPRECATED
 
 This project is stored on code.google.com as http://code.google.com/p/shunit2/.
 All releases as of 2.1.4 and full source are available there. Documentation is
